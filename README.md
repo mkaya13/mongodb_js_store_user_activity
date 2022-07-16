@@ -6,3 +6,6 @@
 - Install mongodb globally for node.js with below steps:
 npm install mongodb -g
 Go to your app directory and run npm link mongodb
+
+
+(Only need to write js codes and run above codes to download necessary mongodb files)
